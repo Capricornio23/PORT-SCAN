@@ -1,2 +1,2 @@
 # PORT-SCAN
-Escaneo se puertos abiertos con nmap y obtención de IP
+Escaneo de puertos abiertos con nmap y obtención de IP
